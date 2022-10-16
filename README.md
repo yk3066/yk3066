@@ -12,7 +12,6 @@
 📮&nbsp;You can contact me at yashkmar3066@gmail.com !
 
 
-![Counter](https://visitor-badge.glitch.me/badge?page_id=yk3066.visitor-badge)
 
 
 ---
