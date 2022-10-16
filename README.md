@@ -6,10 +6,10 @@
 
 ### 👨🏻‍💻 &nbsp;Me Who ?
 
-🎓 &nbsp;I am a Sophomore in Electronic and Communication Student at IIIT Dharwad
- 📱&nbsp; App Developer and Machine Learning Enthusiast. Exploring and Learning Deep Learning and its potential appliaction in Quantum Computing.
-🎸 &nbsp;I am a Musician who writes songs and plays guitar and drums.
-📮 &nbsp;You can contact me at yashkmar3066@gmail.com !
+-🎓 &nbsp;I am a Sophomore in Electronic and Communication Student at IIIT Dharwad
+-📱 &nbsp; App Developer and Machine Learning Enthusiast. Exploring and Learning Deep Learning and its potential appliaction in Quantum Computing.
+-🎸 &nbsp;I am a Musician who writes songs and plays guitar and drums.
+-📮 &nbsp;You can contact me at yashkmar3066@gmail.com !
 
 
 ![Counter](https://visitor-badge.glitch.me/badge?page_id=yk3066.visitor-badge)
