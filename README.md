@@ -43,7 +43,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-  <img align="left" src="https://activity-graph.herokuapp.com/graph?username=yk3066&bg_color=011637&color=e4e2f2&line=fafafa&point=f4f2f2&area=true&hide_border=true" width='702.21' />
+  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=yk3066&bg_color=011637&color=e4e2f2&line=fafafa&point=f4f2f2&area=true&hide_border=true" width='702.21' />
 
 <a href="https://github.com/yk3066">
   <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yk3066&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
