@@ -20,13 +20,13 @@
 ### 🛠 &nbsp;Tech Stack
 
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
-![Android](https://img.shields.io/badge/android-3670A0?style=for-the-badge&logo=android&logoColor=ffdd54)&nbsp;
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=yellow)&nbsp;
+![Android](https://img.shields.io/badge/android-3670A0?style=for-the-badge&logo=android&logoColor=green)&nbsp;
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/mysql-3670A0?style=for-the-badge&logo=mysql&logoColor=ffdd54)&nbsp;
+![MySQL](https://img.shields.io/badge/mysql-3670A0?style=for-the-badge&logo=mysql&logoColor=orange)&nbsp;
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)&nbsp; 
-![Swift](https://img.shields.io/badge/swift-%23013243.svg?style=for-the-badge&logo=swift&logoColor=white)&nbsp;
+![Swift](https://img.shields.io/badge/swift-%23013243.svg?style=for-the-badge&logo=swift&logoColor=orange)&nbsp;
 ![Kotlin](https://img.shields.io/badge/kotlin-%236929C4.svg?style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)&nbsp;
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
@@ -36,7 +36,7 @@
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)&nbsp;
 ![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white)&nbsp;
 ![Figma](https://img.shields.io/badge/figma-3670A0?style=for-the-badge&logo=figma&logoColor=ffdd54)&nbsp;
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=green)&nbsp;
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![AWS](https://img.shields.io/badge/aws-3670A0?style=for-the-badge&logo=amazon-web-services&logoColor=ffdd54)&nbsp;
