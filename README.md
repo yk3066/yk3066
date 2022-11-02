@@ -6,12 +6,13 @@
 
 ### 👨🏻‍💻 &nbsp;Me Who ?
 
-🎓&nbsp;I am a Sophomore in Electronic and Communication Student at IIIT Dharwad.\
+🎓&nbsp;I am a Sophomore in Electronic and Communication at IIIT Dharwad.\
 📱&nbsp; App Developer and Machine Learning Enthusiast. Exploring and Learning ML, IoT, GPU, Computer Arch, Blockchain and more.\
 🎸&nbsp;I am a Musician who happens to write songs and play guitar and drums suprisingly well.\
 📮&nbsp;You can contact me at yashkmar3066@gmail.com !
 
-
+---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yk3066&label=Profile%20views&color=0e75b6&style=flat" alt="yk3066" /> </p>
 
 
 ---
@@ -45,6 +46,19 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
+
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/yash-kumar-8b86771a7/"><img src="https://img.shields.io/badge/-yashkumar3066-0077B5?style=flat-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:yashkumar3066@gmail.com"><img src="https://img.shields.io/badge/-yashkumar3066@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/yashkumar3066/"><img src="https://img.shields.io/badge/-yashkumar3066-E4405F?style=flat-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://twitter.com/yashkumar3066"><img src="https://img.shields.io/badge/-yashkumar3066-1877F2?style=flat-the-badge&logo=Twitter&logoColor=white"/></a>
+  
+  
+
+---
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
@@ -66,11 +80,3 @@
 <hr>
 
 
-
-### 🤝🏻 &nbsp;Connect with Me
-
-<p align="center">
-<a href="https://www.linkedin.com/in/yash-kumar-8b86771a7/"><img src="https://img.shields.io/badge/-yashkumar3066-0077B5?style=flat-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:yashkumar3066@gmail.com"><img src="https://img.shields.io/badge/-yashkumar3066@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/yashkumar3066/"><img src="https://img.shields.io/badge/-yashkumar3066-E4405F?style=flat-the-badge&logo=Instagram&logoColor=white"/></a>
-<a href="https://twitter.com/yashkumar3066"><img src="https://img.shields.io/badge/-yashkumar3066-1877F2?style=flat-the-badge&logo=Twitter&logoColor=white"/></a>
