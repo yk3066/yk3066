@@ -7,7 +7,7 @@
 ### 👨🏻‍💻 &nbsp;Me Who ?
 
 🎓&nbsp;I am a Sophomore in Electronic and Communication Student at IIIT Dharwad.\
-📱&nbsp; App Developer and Machine Learning Enthusiast. Exploring and Learning ML, IoT, GPU Programming, Computer Arch, Blockchain and many more.\
+📱&nbsp; App Developer and Machine Learning Enthusiast. Exploring and Learning ML, IoT, GPU, Computer Arch, Blockchain and many more.\
 🎸&nbsp;I am a Musician who happens to write songs and play guitar and drums suprisingly well.\
 📮&nbsp;You can contact me at yashkmar3066@gmail.com !
 
