@@ -7,8 +7,8 @@
 ### 👨🏻‍💻 &nbsp;Me Who ?
 
 🎓&nbsp;I am a Sophomore in Electronic and Communication Student at IIIT Dharwad.\
-📱&nbsp; App Developer and Machine Learning Enthusiast. Exploring and Learning ML, IoT, GPU Programming and Computer Hardware Designing.\
-🎸&nbsp;I am a Musician who writes songs and plays guitar and drums.\
+📱&nbsp; App Developer and Machine Learning Enthusiast. Exploring and Learning ML, IoT, GPU Programming, Computer Arch, Blockchain and many more.\
+🎸&nbsp;I am a Musician who happens to write songs and play guitar and drums suprisingly well.\
 📮&nbsp;You can contact me at yashkmar3066@gmail.com !
 
 
@@ -20,20 +20,25 @@
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
+![Android](https://img.shields.io/badge/android-3670A0?style=for-the-badge&logo=android&logoColor=ffdd54)&nbsp;
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/mysql-3670A0?style=for-the-badge&logo=mysql&logoColor=ffdd54)&nbsp;
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)&nbsp; 
 ![Swift](https://img.shields.io/badge/swift-%23013243.svg?style=for-the-badge&logo=swift&logoColor=white)&nbsp;
 ![Kotlin](https://img.shields.io/badge/kotlin-%236929C4.svg?style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)&nbsp;
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
+![Seaborn](https://img.shields.io/badge/seaborn-3670A0?style=for-the-badge&logo=seaborn&logoColor=ffdd54)&nbsp;
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)&nbsp;
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)&nbsp;
 ![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white)&nbsp;
+![Figma](https://img.shields.io/badge/figma-3670A0?style=for-the-badge&logo=figma&logoColor=ffdd54)&nbsp;
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![AWS](https://img.shields.io/badge/aws-3670A0?style=for-the-badge&logo=amazon-web-services&logoColor=ffdd54)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
