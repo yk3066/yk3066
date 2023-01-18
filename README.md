@@ -29,6 +29,7 @@
 ![Swift](https://img.shields.io/badge/swift-%23013243.svg?style=for-the-badge&logo=swift&logoColor=orange)&nbsp;
 ![Kotlin](https://img.shields.io/badge/kotlin-%236929C4.svg?style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)&nbsp;
+![FireBase](https://img.shields.io/badge/Firebase-%2302569B.svg?style=for-the-badge&logo=Firebase&logoColor=orange)&nbsp;
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
 ![Seaborn](https://img.shields.io/badge/seaborn-3670A0?style=for-the-badge&logo=seaborn&logoColor=ffdd54)&nbsp;
