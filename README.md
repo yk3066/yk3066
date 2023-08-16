@@ -6,8 +6,8 @@
 
 ### 👨🏻‍💻 &nbsp;Me Who ?
 
-🎓&nbsp;I am a Sophomore in Electronic and Communication at IIIT Dharwad.\
-📱&nbsp; App Developer and Machine Learning Enthusiast. Exploring and Learning ML, IoT, GPU, Embedded Systems, Blockchain and more.\
+🎓&nbsp;I am a Pre-final year in Electronics and Communication at IIIT Dharwad.\
+📱&nbsp; App Developer, Iot and Machine Learning Enthusiast. Exploring and Learning ML, IoT, GPU, Embedded Systems, SoC Design and more.\
 🎸&nbsp;I am a Musician who happens to write songs and play guitar and drums suprisingly well.\
 📮&nbsp;You can contact me at yashkmar3066@gmail.com !
 
