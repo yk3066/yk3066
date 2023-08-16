@@ -33,6 +33,7 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
 ![Seaborn](https://img.shields.io/badge/seaborn-3670A0?style=for-the-badge&logo=seaborn&logoColor=ffdd54)&nbsp;
+![Matlab](https://img.shields.io/badge/Matlab-3670A0?style=for-the-badge&logo=matlab&logoColor=ffdd54)&nbsp;
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)&nbsp;
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)&nbsp;
 ![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white)&nbsp;
