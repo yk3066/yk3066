@@ -26,7 +26,7 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/mysql-3670A0?style=for-the-badge&logo=mysql&logoColor=orange)&nbsp;
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)&nbsp; 
-![Swift](https://img.shields.io/badge/swift-%23013243.svg?style=for-the-badge&logo=swift&logoColor=orange)&nbsp;
+![VLSI](https://img.shields.io/badge/VLSI-%23013243.svg?style=for-the-badge&logo=vlsi&logoColor=orange)&nbsp;
 ![Kotlin](https://img.shields.io/badge/kotlin-%236929C4.svg?style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)&nbsp;
 ![FireBase](https://img.shields.io/badge/Firebase-%2302569B.svg?style=for-the-badge&logo=Firebase&logoColor=orange)&nbsp;
@@ -41,7 +41,7 @@
 ![Postman](https://img.shields.io/badge/postman-%23F05033?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![AWS](https://img.shields.io/badge/aws-3670A0?style=for-the-badge&logo=amazon-web-services&logoColor=ffdd54)&nbsp;
+![GoogleCloud](https://img.shields.io/badge/Google_Cloud-3670A0?style=for-the-badge&logo=google-cloud&logoColor=ffdd54)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-E95420?style=for-the-badge&logo=linux&logoColor=white)
